@@ -1,0 +1,12 @@
+2026-06-30 16:49:21,702 - CREATED: watched_folder\test.txt
+2026-06-30 16:49:21,702 - MODIFIED: watched_folder\test.txt
+2026-06-30 16:55:13,059 - MODIFIED: watched_folder\test.txt
+2026-06-30 16:55:56,450 - DELETED: watched_folder\test.txt
+2026-06-30 16:58:04,802 - CREATED: watched_folder\test.txt
+2026-06-30 16:58:04,802 - MODIFIED: watched_folder\test.txt
+2026-06-30 16:58:38,142 - MODIFIED: watched_folder\test.txt
+2026-06-30 16:58:45,198 - DELETED: watched_folder\test.txt
+2026-06-30 17:01:02,310 - CREATED: watched_folder\test.txt
+2026-06-30 17:01:02,310 - MODIFIED: watched_folder\test.txt
+2026-06-30 17:01:10,546 - MODIFIED: watched_folder\test.txt
+2026-06-30 17:01:18,863 - DELETED: watched_folder\test.txt
